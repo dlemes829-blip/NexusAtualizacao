@@ -1,13 +1,13 @@
 {
-  "versao": "2.2.3",
+  "versao": "2.2.4",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.3/Sistema_Nexus_v2_2_3_UPDATE.zip",
-  "sha256": "5372450F0AB17B8D7B464C361BF2DB6363D74B172E144848C31D79CA532DB158",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.4/Sistema_Nexus_v2_2_4_UPDATE.zip",
+  "sha256": "F673B3595A0A99F1C7E49EC19F64A0684C2330FFA4798326222EA6ECD34C561B",
   "notas": [
-    "Menu inicial redesenhado com Login, Crie seu Login, Logoff e Chat Inteligente",
-    "Login agora mostra a verificacao GitHub no MENU",
-    "Ao entrar, o NEXUS verifica atualizacao automaticamente e reabre sozinho quando houver nova versao",
-    "Logoff bloqueia o sistema sem fechar a planilha",
-    "Notas da versao e status da atualizacao ficam visiveis na tela inicial"
+    "Atualizador blindado contra cache do raw.githubusercontent.com usando API do GitHub",
+    "Menu inicial moderno com Login, Crie seu Login, Logoff e Chat Inteligente",
+    "Login mostra status real da verificacao GitHub no MENU",
+    "Atualizacao automatica salva backup, aplica a nova versao e agenda reabertura",
+    "Logoff bloqueia o sistema sem fechar a planilha"
   ]
 }

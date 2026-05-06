@@ -1,9 +1,9 @@
 {
-  "versao": "1.3.2",
+  "versao": "1.3.1",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.3.2/Sistema_Nexus_v1_3_2_UPDATE.zip",
-  "sha256": "BCAD5343EE1123621C58DA9E5BC75F3446AEF86520CDD286B48161629C4FF729",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.3.1/Sistema_Nexus_v1_3_1_UPDATE.zip",
+  "sha256": "E656731DDC1BB306DBA2917CD269262BA0794E50CF30992F8A417B80CF4F56CC",
   "notas": [
-    "Novas funcionalidades e diversao"
+    "Memoria Longo Prazo! Varias implementações feitas nos projetos do Nexus"
   ]
 }

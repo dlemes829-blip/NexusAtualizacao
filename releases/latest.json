@@ -1,9 +1,9 @@
 {
-  "versao": "1.3.6",
+  "versao": "1.9.8",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.3.6/Sistema_Nexus_v1_3_6_UPDATE.zip",
-  "sha256": "3FEFF8F4C685C5B0CB36332572A55C537767FE8A15130594016BE04776FF6568",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.9.8/Sistema_Nexus_v1_9_8_UPDATE.zip",
+  "sha256": "5053E5D35608323C03A57932F4A92C0B6552B43797FD09C7C94C91BEC647094F",
   "notas": [
-    "Tela login/ Novas ferramentas"
+    "Verdades"
   ]
 }

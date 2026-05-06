@@ -1,13 +1,9 @@
 {
-  "versao": "2.2.7",
+  "versao": "3.3.3",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.7/Sistema_Nexus_v2_2_7_UPDATE.zip",
-  "sha256": "8F765CD5370DE91AD16C11AED19FA0D42C543ED509CE60A4C74CCB68BF47E741",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.3.3/Sistema_Nexus_v3_3_3_UPDATE.zip",
+  "sha256": "6A081BE6010A08521580D6F00A1E2B1262F4DCDC1CA1B5B8F20BA30928BAFF69",
   "notas": [
-    "Remove segundo salvamento da criacao da planilha para evitar travamento no OneDrive",
-    "Migrador preserva usuarios criando NEXUS_USERS quando necessario",
-    "Limpeza da Area de Trabalho so roda quando a nova planilha esta na Area de Trabalho",
-    "Backup de atualizacao nao copia backups em loop",
-    "Atualizador consulta GitHub pela API para evitar cache do RAW"
+    "versao"
   ]
 }

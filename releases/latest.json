@@ -1,9 +1,9 @@
 {
-  "versao": "1.4.5",
+  "versao": "1.5.3",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.4.5/Sistema_Nexus_v1_4_5_UPDATE.zip",
-  "sha256": "D9C73EAFC1195511E1E457C2450D6093DF1ABD40157407A3048642C932820C42",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.5.3/Sistema_Nexus_v1_5_3_UPDATE.zip",
+  "sha256": "52C35C131335226EC18C7F07C65646DD7F3CDDA03FB52850B91057EFFF718587",
   "notas": [
-    "Novas"
+    "Correções de bug criticos"
   ]
 }

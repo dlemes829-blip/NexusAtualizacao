@@ -1,13 +1,13 @@
 {
-  "versao": "2.2.5",
+  "versao": "2.2.6",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.5/Sistema_Nexus_v2_2_5_UPDATE.zip",
-  "sha256": "99C0D2C83B8179D776DE82BDDB16C9FD8EEBE1C0D9C6CA6C63304E5E2DEDB1C8",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.6/Sistema_Nexus_v2_2_6_UPDATE.zip",
+  "sha256": "4DEE3956D46476C155EFB8BE9C5570119197D777EE4E31AB293E4629B89177D0",
   "notas": [
-    "Corrige backup de atualizacao para nao copiar a propria pasta de backups em loop",
-    "Atualizador usa API do GitHub para evitar cache do raw.githubusercontent.com",
-    "Menu inicial moderno com Login, Crie seu Login, Logoff e Chat Inteligente",
-    "Login mostra a verificacao GitHub no MENU",
-    "Atualizacao automatica salva, aplica e agenda reabertura da nova planilha"
+    "Migrador preserva usuarios criando NEXUS_USERS quando a planilha nova ainda nao tem a aba oculta",
+    "Limpeza da Area de Trabalho agora so roda quando a nova planilha esta realmente na Area de Trabalho",
+    "Backup de atualizacao nao copia backups em loop",
+    "Atualizador consulta GitHub pela API para evitar cache do RAW",
+    "Menu inicial com Login, Crie seu Login, Logoff e Chat Inteligente"
   ]
 }

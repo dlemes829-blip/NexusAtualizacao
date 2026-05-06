@@ -1,13 +1,9 @@
 {
-  "versao": "1.10.0",
+  "versao": "2.2.2",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v1.10.0/Sistema_Nexus_v1_10_0_UPDATE.zip",
-  "sha256": "04C61941DDC5059BD9E98BD788598E88CD60775931C50D55C9D44AAA0CED4650",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v2.2.2/Sistema_Nexus_v2_2_2_UPDATE.zip",
+  "sha256": "9F15CC3BBFDACC29A2E8FD218E91A7B6E7B72DB1C0B53E7DB4977D98168C6480",
   "notas": [
-    "Corrige atualizacao de planilhas salvas no OneDrive quando o Excel envia URL em vez de caminho local",
-    "Migrador agora encontra copia local segura e ignora modulos de documento que quebravam o arquivo",
-    "Adiciona diagnostico de atualizacao e comando para forcar reinstalacao controlada",
-    "Publicador bloqueia versoes menores ou iguais para evitar testes que nao disparam update",
-    "Historico de atualizacao salvo em logs para auditoria"
+    "Versao"
   ]
 }

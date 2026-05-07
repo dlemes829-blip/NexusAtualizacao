@@ -1,8 +1,8 @@
 {
-  "versao": "3.4.0",
+  "versao": "3.4.1",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.0/Sistema_Nexus_v3_4_0_UPDATE.zip",
-  "sha256": "A05070DF8AC9AB0272F7332D09800B356642A70C4FB3A64F29D2F46B88DEEFD2",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.1/Sistema_Nexus_v3_4_1_UPDATE.zip",
+  "sha256": "F59CDEB4877FB2E4C24951210613FC6FC9A836E0D30BA3F27AD27EA18DF750DB",
   "notas": [
     "Acoes reais priorizadas antes das respostas rapidas",
     "Toda aba criada pelo agente recebe botao Voltar ao MENU automaticamente",
@@ -12,6 +12,7 @@
     "Painel visual de atualizacao durante login",
     "Galeria de projetos offline no menu",
     "Canal stable/beta preparado",
-    "Migracao adiciona botao de MENU nas abas preservadas"
+    "Migracao adiciona botao de MENU nas abas preservadas",
+    "Botoes Doctor e Rollback chamam o modulo correto de forma qualificada"
   ]
 }

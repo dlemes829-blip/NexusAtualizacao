@@ -1,13 +1,17 @@
 {
-  "versao": "3.3.4",
+  "versao": "3.4.0",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.3.4/Sistema_Nexus_v3_3_4_UPDATE.zip",
-  "sha256": "1FD1ABAF8BBF40DD3626A9AF098CA297D2FE5274347072E96E3F4949904930E2",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.0/Sistema_Nexus_v3_4_0_UPDATE.zip",
+  "sha256": "A05070DF8AC9AB0272F7332D09800B356642A70C4FB3A64F29D2F46B88DEEFD2",
   "notas": [
-    "Menu inicial mais compacto e organizado em duas colunas",
-    "Painel Notas da versao mantido com status, GitHub e ferramentas no mesmo bloco",
-    "Texto tecnico do GitHub nao aparece mais vazando por tras dos paineis",
-    "Botoes menores e alinhados para login, chat e ferramentas",
-    "Fundo expandido para evitar area branca ao lado da interface"
+    "Acoes reais priorizadas antes das respostas rapidas",
+    "Toda aba criada pelo agente recebe botao Voltar ao MENU automaticamente",
+    "Nexus Doctor integrado ao chat e ao menu",
+    "Rollback da ultima atualizacao pelo chat/menu",
+    "Memoria longa separada por usuario logado",
+    "Painel visual de atualizacao durante login",
+    "Galeria de projetos offline no menu",
+    "Canal stable/beta preparado",
+    "Migracao adiciona botao de MENU nas abas preservadas"
   ]
 }

@@ -1,14 +1,16 @@
 {
-  "versao": "3.4.2",
+  "versao": "3.4.3",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.2/Sistema_Nexus_v3_4_2_UPDATE.zip",
-  "sha256": "8A1DB110A4E17497A293C5CBEFF69D8BD030E9E8650FFFF05D857B95E64220CF",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.3/Sistema_Nexus_v3_4_3_UPDATE.zip",
+  "sha256": "22F00B3AFC6F2CC02F91D7A6DE711BF722852675CAA85DC830780F060F8339D9",
   "notas": [
-    "Corrigido erro de compilacao no painel de atualizacao",
-    "Atualizacao automatica agora usa atualizador rapido direto sem carregar o agente completo",
-    "Tempo de reabertura reduzido na migracao da nova versao",
-    "Botoes do menu compactados para caber melhor em telas menores",
-    "Chat abaixo do login renomeado para IA Rapida com explicacao de biblioteca e comandos sem demora",
-    "Botoes Doctor e Rollback continuam qualificados no modulo correto"
+    "Novo botao Suporte DEV no menu",
+    "Novo UserForm criativo para feedback, erro, duvida e apoio",
+    "WhatsApp abre conversa do Daniel Lemes Dev com mensagem preparada",
+    "Email de suporte envia detalhes tecnicos quando a senha local segura existir",
+    "Fallback abre email pronto quando nao houver credencial local",
+    "Senha de app nao fica no projeto nem no pacote",
+    "Logs de suporte registrados localmente para auditoria",
+    "Menu reorganizado em 3 linhas para caber melhor"
   ]
 }

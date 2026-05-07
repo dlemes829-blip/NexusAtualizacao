@@ -1,13 +1,13 @@
 {
-  "versao": "3.4.6",
+  "versao": "3.5.0",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.6/Sistema_Nexus_v3_4_6_UPDATE.zip",
-  "sha256": "87AA4EC469737C1078418C5F781FCE853582E1CF8A0CE0A99629A3F803D10430",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.5.0/Sistema_Nexus_v3_5_0_UPDATE.zip",
+  "sha256": "2E2C08B89D0B8211D0CBF29ABEDC61B079B82AE78137B98DF6631DF4A9211003",
   "notas": [
-    "Suporte DEV usa apenas email automatico",
-    "Fluxo anterior de mensageria externa removido do runtime",
-    "Email le segredo seguro do Windows mesmo quando o processo nao herdou a variavel",
-    "Formulario de suporte ajustado para Enviar email agora",
-    "Senha de app continua fora do projeto, fora do ZIP e fora da planilha"
+    "Exportador seguro NEXUS com workbook, abas, CSV, formulas, VBA, UserForms, manifesto e ZIP",
+    "Doctor e Projetos agora abrem o Studio com resultado real",
+    "Botao Exportar no MENU e no Studio",
+    "Suporte DEV com envio simples por email",
+    "Biblioteca de formulas Excel e memoria mais blindada"
   ]
 }

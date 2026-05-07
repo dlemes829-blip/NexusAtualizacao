@@ -1,11 +1,9 @@
 {
-  "versao": "3.5.2",
+  "versao": "5.6.5",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.5.2/Sistema_Nexus_v3_5_2_UPDATE.zip",
-  "sha256": "D88BBFE948CFD9DF247BCDE258A4CBF317A2FBB5C5C74DA4EFFC0EFE969C467A",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.5/Sistema_Nexus_v5_6_5_UPDATE.zip",
+  "sha256": "50E13D5B158F213243106C312977ECCD0CAD62BCA375FAD81BF5D1E80055F20D",
   "notas": [
-    "Exportador corrigido para abrir a planilha escolhida em modo oculto quando possivel",
-    "ao terminar fecha o arquivo aberto pelo agente e volta o foco para o NEXUS",
-    "exportacao por seletor agora gera pacote em dados/exportacoes sem apenas deixar a outra planilha aberta"
+    "Atualizando Importar"
   ]
 }

@@ -1,18 +1,14 @@
 {
-  "versao": "3.4.1",
+  "versao": "3.4.2",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.1/Sistema_Nexus_v3_4_1_UPDATE.zip",
-  "sha256": "F59CDEB4877FB2E4C24951210613FC6FC9A836E0D30BA3F27AD27EA18DF750DB",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.4.2/Sistema_Nexus_v3_4_2_UPDATE.zip",
+  "sha256": "8A1DB110A4E17497A293C5CBEFF69D8BD030E9E8650FFFF05D857B95E64220CF",
   "notas": [
-    "Acoes reais priorizadas antes das respostas rapidas",
-    "Toda aba criada pelo agente recebe botao Voltar ao MENU automaticamente",
-    "Nexus Doctor integrado ao chat e ao menu",
-    "Rollback da ultima atualizacao pelo chat/menu",
-    "Memoria longa separada por usuario logado",
-    "Painel visual de atualizacao durante login",
-    "Galeria de projetos offline no menu",
-    "Canal stable/beta preparado",
-    "Migracao adiciona botao de MENU nas abas preservadas",
-    "Botoes Doctor e Rollback chamam o modulo correto de forma qualificada"
+    "Corrigido erro de compilacao no painel de atualizacao",
+    "Atualizacao automatica agora usa atualizador rapido direto sem carregar o agente completo",
+    "Tempo de reabertura reduzido na migracao da nova versao",
+    "Botoes do menu compactados para caber melhor em telas menores",
+    "Chat abaixo do login renomeado para IA Rapida com explicacao de biblioteca e comandos sem demora",
+    "Botoes Doctor e Rollback continuam qualificados no modulo correto"
   ]
 }

@@ -1,12 +1,11 @@
 {
-  "versao": "3.5.1",
+  "versao": "3.5.2",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.5.1/Sistema_Nexus_v3_5_1_UPDATE.zip",
-  "sha256": "852E75A2C7C5C1E6881C7866D90E9D442C85182C23708F147A1C8DB6B2BAE7B6",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v3.5.2/Sistema_Nexus_v3_5_2_UPDATE.zip",
+  "sha256": "D88BBFE948CFD9DF247BCDE258A4CBF317A2FBB5C5C74DA4EFFC0EFE969C467A",
   "notas": [
-    "Botao Exportar agora abre seletor de arquivo para escolher a planilha do PC",
-    "Studio Exportar tambem permite escolher arquivo",
-    "Chat aceita exportar arquivo caminho.xlsm",
-    "Aviso chamativo no login quando houver atualizacao DEV informando que pode levar ate 40 segundos"
+    "Exportador corrigido para abrir a planilha escolhida em modo oculto quando possivel",
+    "ao terminar fecha o arquivo aberto pelo agente e volta o foco para o NEXUS",
+    "exportacao por seletor agora gera pacote em dados/exportacoes sem apenas deixar a outra planilha aberta"
   ]
 }

@@ -1,12 +1,9 @@
 {
-  "versao": "5.7.5",
+  "versao": "5.7.8",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.5/Sistema_Nexus_v5_7_5_UPDATE.zip",
-  "sha256": "607BB596E0243403E8C03C806231AF8341162CD93ABB7DC219FA8C9D1921686D",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.8/Sistema_Nexus_v5_7_8_UPDATE.zip",
+  "sha256": "7FE51F5E9EA9EE9113AEEEC64DCC70642F2C6431C0AC61EA27D15F28CACBD153",
   "notas": [
-    "Atualizacoes preservam abas formatos e componentes VBA dos usuarios",
-    "Menu reorganizado com notas e status visiveis durante login",
-    "Chat Studio e API ganharam tratamento de erro e historico aparado",
-    "NEXUS adaptado para biblioteca editavel recursiva com 97 JSONs RAG leve e nexus_engine"
+    "Novas validações - Dev agora monitora em tempo real todas as alteraçõe feitas pelos usuarios!"
   ]
 }

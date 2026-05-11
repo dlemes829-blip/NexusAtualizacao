@@ -1,12 +1,12 @@
 {
-  "versao": "5.7.1",
+  "versao": "5.7.2",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.1/Sistema_Nexus_v5_7_1_UPDATE.zip",
-  "sha256": "713B6468C3D2833332C9EEF21220F7D922AAB6550F26D30A1FC5E6F66AD25B06",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.2/Sistema_Nexus_v5_7_2_UPDATE.zip",
+  "sha256": "2BEB2005BE81926821C2E9ACEBA411B520F6C5A896CD83412ABC2B5C0BAFE2F8",
   "notas": [
     "Cofre VBA abre automaticamente apos importar modulos e UserForms",
     "Menu e Studio ganharam botoes Cofre VBA, Pasta Cofre e Instalar Selecionado",
     "Modulos e FRMs externos ficam visiveis no NEXUS_COFRE_VBA sem quebrar macros do NEXUS",
-    "Instalacao de item do cofre e manual e controlada"
+    "Ajuste para o atualizador local perceber a nova versao no proximo login"
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "versao": "5.6.9",
+  "versao": "5.7.0",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.9/Sistema_Nexus_v5_6_9_UPDATE.zip",
-  "sha256": "0DFACC3E5230FE0A2CD2B3B09DABF7318B63F8FC1132F89C76770B544953D769",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.0/Sistema_Nexus_v5_7_0_UPDATE.zip",
+  "sha256": "B5334A0B24A95BEB1C476FCEC14C3526C4786BB5AB0E7D13C96A6905BFAC0D17",
   "notas": [
-    "Importacao blindada com cofre VBA seguro",
-    "Modulos e UserForms externos nao entram mais como macros executaveis automaticamente",
-    "Codigo interno de abas importadas e neutralizado para nao quebrar o NEXUS",
-    "Atualizacao/migracao tambem arquiva VBA em cofre em vez de instalar codigo arriscado"
+    "Adicionado REPARAR_NEXUS.BAT para recuperar planilhas instaveis por fora",
+    "Importacao continua usando cofre VBA seguro",
+    "Atualizacao preserva abas e arquiva codigo externo sem quebrar macros do NEXUS",
+    "Botoes do MENU ficam protegidos contra codigo importado"
   ]
 }

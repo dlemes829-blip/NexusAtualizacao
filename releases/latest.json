@@ -1,12 +1,12 @@
 {
-  "versao": "5.7.0",
+  "versao": "5.7.1",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.0/Sistema_Nexus_v5_7_0_UPDATE.zip",
-  "sha256": "B5334A0B24A95BEB1C476FCEC14C3526C4786BB5AB0E7D13C96A6905BFAC0D17",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.1/Sistema_Nexus_v5_7_1_UPDATE.zip",
+  "sha256": "713B6468C3D2833332C9EEF21220F7D922AAB6550F26D30A1FC5E6F66AD25B06",
   "notas": [
-    "Adicionado REPARAR_NEXUS.BAT para recuperar planilhas instaveis por fora",
-    "Importacao continua usando cofre VBA seguro",
-    "Atualizacao preserva abas e arquiva codigo externo sem quebrar macros do NEXUS",
-    "Botoes do MENU ficam protegidos contra codigo importado"
+    "Cofre VBA abre automaticamente apos importar modulos e UserForms",
+    "Menu e Studio ganharam botoes Cofre VBA, Pasta Cofre e Instalar Selecionado",
+    "Modulos e FRMs externos ficam visiveis no NEXUS_COFRE_VBA sem quebrar macros do NEXUS",
+    "Instalacao de item do cofre e manual e controlada"
   ]
 }

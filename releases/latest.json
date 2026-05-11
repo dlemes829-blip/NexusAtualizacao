@@ -1,9 +1,12 @@
 {
-  "versao": "5.6.5",
+  "versao": "5.6.6",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.5/Sistema_Nexus_v5_6_5_UPDATE.zip",
-  "sha256": "50E13D5B158F213243106C312977ECCD0CAD62BCA375FAD81BF5D1E80055F20D",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.6/Sistema_Nexus_v5_6_6_UPDATE.zip",
+  "sha256": "0979178A2F3C55B75736945EEAECA843784039C56608B3DCB5C191216D3E845E",
   "notas": [
-    "Atualizando Importar"
+    "Importacao direta para dentro do NEXUS",
+    "Abas aparecem automaticamente dentro da planilha",
+    "Modulos e UserForms sao importados com nomes seguros",
+    "Toda aba importada recebe botao MENU"
   ]
 }

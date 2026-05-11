@@ -1,12 +1,12 @@
 {
-  "versao": "5.7.4",
+  "versao": "5.7.5",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.4/Sistema_Nexus_v5_7_4_UPDATE.zip",
-  "sha256": "C4F91760F75DAD87B65E7155A7C1B7FA0E05A3CFCA2BADC7F97EE41FD9918EC3",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.5/Sistema_Nexus_v5_7_5_UPDATE.zip",
+  "sha256": "607BB596E0243403E8C03C806231AF8341162CD93ABB7DC219FA8C9D1921686D",
   "notas": [
-    "Importacao agora instala pacote VBA executavel quando o Excel libera acesso",
-    "Botoes importados deixam de apontar para a planilha antiga e passam a rodar no NEXUS",
-    "Codigos que chamavam Workbooks da origem sao ajustados para ThisWorkbook quando possivel",
-    "Cofre VBA continua guardando copia segura de todos os modulos e UserForms"
+    "Atualizacoes preservam abas formatos e componentes VBA dos usuarios",
+    "Menu reorganizado com notas e status visiveis durante login",
+    "Chat Studio e API ganharam tratamento de erro e historico aparado",
+    "NEXUS adaptado para biblioteca editavel recursiva com 97 JSONs RAG leve e nexus_engine"
   ]
 }

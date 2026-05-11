@@ -1,12 +1,12 @@
 {
-  "versao": "5.6.6",
+  "versao": "5.6.7",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.6/Sistema_Nexus_v5_6_6_UPDATE.zip",
-  "sha256": "0979178A2F3C55B75736945EEAECA843784039C56608B3DCB5C191216D3E845E",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.7/Sistema_Nexus_v5_6_7_UPDATE.zip",
+  "sha256": "23AECA4B9430242AFFF30D0CC872204DE9A3A96E0A70CC90B5BC36E8481838EF",
   "notas": [
-    "Importacao direta para dentro do NEXUS",
-    "Abas aparecem automaticamente dentro da planilha",
-    "Modulos e UserForms sao importados com nomes seguros",
-    "Toda aba importada recebe botao MENU"
+    "NEXUS detecta projeto VBA bloqueado",
+    "Ao importar, pede senha do VBA ao usuario",
+    "Senha usada apenas na hora e nao salva",
+    "Se o Excel bloquear acesso VBA, o NEXUS oferece preparar a permissao do Windows"
   ]
 }

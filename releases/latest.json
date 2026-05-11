@@ -1,12 +1,12 @@
 {
-  "versao": "5.6.8",
+  "versao": "5.6.9",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.8/Sistema_Nexus_v5_6_8_UPDATE.zip",
-  "sha256": "FA2D2CF175D145974711C319A163659546FE11CC7A0EC934D7B6622E7BA5B4CB",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.6.9/Sistema_Nexus_v5_6_9_UPDATE.zip",
+  "sha256": "0DFACC3E5230FE0A2CD2B3B09DABF7318B63F8FC1132F89C76770B544953D769",
   "notas": [
-    "Melhora desbloqueio de projeto VBA protegido",
-    "NEXUS foca o Editor VBA antes de enviar a senha",
-    "Se o Excel nao aceitar automaticamente, deixa a origem aberta para desbloqueio manual e reimportacao",
-    "Importacao normal validada com aba e modulo"
+    "Importacao blindada com cofre VBA seguro",
+    "Modulos e UserForms externos nao entram mais como macros executaveis automaticamente",
+    "Codigo interno de abas importadas e neutralizado para nao quebrar o NEXUS",
+    "Atualizacao/migracao tambem arquiva VBA em cofre em vez de instalar codigo arriscado"
   ]
 }

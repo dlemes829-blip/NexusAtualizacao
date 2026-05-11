@@ -1,12 +1,12 @@
 {
-  "versao": "5.7.3",
+  "versao": "5.7.4",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.3/Sistema_Nexus_v5_7_3_UPDATE.zip",
-  "sha256": "42E06166916114BEB7658B2BCD3721F0DA346BBE42724CD4B1D09A515735E91B",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.7.4/Sistema_Nexus_v5_7_4_UPDATE.zip",
+  "sha256": "C4F91760F75DAD87B65E7155A7C1B7FA0E05A3CFCA2BADC7F97EE41FD9918EC3",
   "notas": [
-    "Importacao guiada avisa que pode levar ate 2 minutos",
-    "VBA protegido abre desbloqueio manual direto e continua automaticamente",
-    "Depois de importar o NEXUS salva e reabre sozinho para estabilizar botoes e menus",
-    "Cofre VBA protege modulos e UserForms externos sem quebrar o sistema"
+    "Importacao agora instala pacote VBA executavel quando o Excel libera acesso",
+    "Botoes importados deixam de apontar para a planilha antiga e passam a rodar no NEXUS",
+    "Codigos que chamavam Workbooks da origem sao ajustados para ThisWorkbook quando possivel",
+    "Cofre VBA continua guardando copia segura de todos os modulos e UserForms"
   ]
 }

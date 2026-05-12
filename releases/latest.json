@@ -1,14 +1,14 @@
 {
-  "versao": "5.8.3",
+  "versao": "5.8.4",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.3/Sistema_Nexus_v5_8_3_UPDATE.zip",
-  "sha256": "C72F6D7F5A9A1D44D837BE5E51309B8FBFB1667B80552A9701EAD07334E840D3",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.4/Sistema_Nexus_v5_8_4_UPDATE.zip",
+  "sha256": "7DCFA4CB7D297B60E3F09FA32745170F492E6FD1C5458F4D6E64A7CD0C1C12B6",
   "notas": [
-    "Modo Premium Excel",
-    "biblioteca premium para dashboards e planilhas profissionais",
-    "NEXUS Pulse mais natural e seguro",
-    "importacao guiada preserva abas, VBA e botoes MENU",
-    "pacote cliente limpo sem arquivos DEV",
-    "atualizador consulta API do GitHub para evitar cache de manifesto"
+    "HOTFIX cliente: cadastro primeiro acesso corrigido",
+    "login nao trava ao verificar GitHub",
+    "Area de Trabalho marcada como local confiavel",
+    "BAT desbloqueia arquivos baixados",
+    "reparar Nexus reaplica permissoes do Excel",
+    "cadastro e controle cloud preservados"
   ]
 }

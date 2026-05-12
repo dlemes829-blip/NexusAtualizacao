@@ -1,14 +1,14 @@
 {
-  "versao": "5.8.1",
+  "versao": "5.8.2",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.1/Sistema_Nexus_v5_8_1_UPDATE.zip",
-  "sha256": "3DF37FA62853F63712F639D3C7A624E879E929E3ACAFE94CDDD58D978F39E398",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.2/Sistema_Nexus_v5_8_2_UPDATE.zip",
+  "sha256": "F01724F12BF9D954936E5299CD1661FF31D6622ECBF6B9EAD3DFF5C71FD14F09",
   "notas": [
     "Modo Premium Excel",
     "biblioteca premium para dashboards e planilhas profissionais",
     "NEXUS Pulse mais natural e seguro",
     "importacao guiada preserva abas, VBA e botoes MENU",
     "pacote cliente limpo sem arquivos DEV",
-    "atualizador sem itens ausentes no pacote"
+    "atualizador usa manifesto GitHub raw mais responsivo"
   ]
 }

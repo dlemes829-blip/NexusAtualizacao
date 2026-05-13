@@ -1,19 +1,14 @@
 {
-  "versao": "5.8.7",
+  "versao": "5.8.8",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.7/Sistema_Nexus_v5_8_7_UPDATE.zip",
-  "sha256": "0E11DBDDA6366AAA22264CC9C42EC446E711603EB4F8FDE692A31C2B1BB8B026",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.8/Sistema_Nexus_v5_8_8_UPDATE.zip",
+  "sha256": "2619904D1763ECBAD30306E30218BA88CD2EA88107410B96DEAFB0AE7A8422FC",
   "notas": [
-    "Chat unico Nexus Pulse",
-    "Studio sem chats duplicados",
-    "Botao Painel Abas no MENU e no Studio",
-    "Painel profissional NEXUS_PAINEL com botoes para todas as abas",
-    "Criacao de painel pelo chat exige plano e confirmacao",
-    "Biblioteca ajustada para experiencia Pulse unica"
+    "Berf"
   ],
   "update_manifest": {
     "schema": 1,
-    "version": "5.8.7",
+    "version": "5.8.8",
     "channel": "stable",
     "title": "NEXUS Safe Core Update",
     "summary": "Atualiza somente o core do NEXUS e preserva planilhas, dados, memoria, backups, logs e customizacoes do usuario.",
@@ -53,14 +48,9 @@
       "Registrar o manifesto aplicado em logs/update_manifest_last.json."
     ],
     "changes": [
-      "Chat unico Nexus Pulse",
-      "Studio sem chats duplicados",
-      "Botao Painel Abas no MENU e no Studio",
-      "Painel profissional NEXUS_PAINEL com botoes para todas as abas",
-      "Criacao de painel pelo chat exige plano e confirmacao",
-      "Biblioteca ajustada para experiencia Pulse unica"
+      "Berf"
     ],
-    "versao": "5.8.7",
-    "updated_at": "2026-05-13T15:17:53"
+    "versao": "5.8.8",
+    "updated_at": "2026-05-13T15:30:26"
   }
 }

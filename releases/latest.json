@@ -1,14 +1,19 @@
 {
-  "versao": "5.8.8",
+  "versao": "5.8.9",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.8/Sistema_Nexus_v5_8_8_UPDATE.zip",
-  "sha256": "2619904D1763ECBAD30306E30218BA88CD2EA88107410B96DEAFB0AE7A8422FC",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.9/Sistema_Nexus_v5_8_9_UPDATE.zip",
+  "sha256": "A21F5E52122B62E9D8430A1FB63776601956A4AFBCD85CAB56A1C5FD5D406B88",
   "notas": [
-    "Berf"
+    "NEXUS Web Local sem Node.js",
+    "Botao Web no MENU",
+    "Botao Web da Aba no Studio",
+    "Gera HTML premium local com busca ordenacao cards e CSV",
+    "Abre automaticamente no navegador",
+    "Chat pede confirmacao antes de criar versao web"
   ],
   "update_manifest": {
     "schema": 1,
-    "version": "5.8.8",
+    "version": "5.8.9",
     "channel": "stable",
     "title": "NEXUS Safe Core Update",
     "summary": "Atualiza somente o core do NEXUS e preserva planilhas, dados, memoria, backups, logs e customizacoes do usuario.",
@@ -48,9 +53,14 @@
       "Registrar o manifesto aplicado em logs/update_manifest_last.json."
     ],
     "changes": [
-      "Berf"
+      "NEXUS Web Local sem Node.js",
+      "Botao Web no MENU",
+      "Botao Web da Aba no Studio",
+      "Gera HTML premium local com busca ordenacao cards e CSV",
+      "Abre automaticamente no navegador",
+      "Chat pede confirmacao antes de criar versao web"
     ],
-    "versao": "5.8.8",
-    "updated_at": "2026-05-13T15:30:26"
+    "versao": "5.8.9",
+    "updated_at": "2026-05-13T15:46:03"
   }
 }

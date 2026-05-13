@@ -1,14 +1,66 @@
 {
-  "versao": "5.8.4",
+  "versao": "5.8.7",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.4/Sistema_Nexus_v5_8_4_UPDATE.zip",
-  "sha256": "7DCFA4CB7D297B60E3F09FA32745170F492E6FD1C5458F4D6E64A7CD0C1C12B6",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.7/Sistema_Nexus_v5_8_7_UPDATE.zip",
+  "sha256": "0E11DBDDA6366AAA22264CC9C42EC446E711603EB4F8FDE692A31C2B1BB8B026",
   "notas": [
-    "HOTFIX cliente: cadastro primeiro acesso corrigido",
-    "login nao trava ao verificar GitHub",
-    "Area de Trabalho marcada como local confiavel",
-    "BAT desbloqueia arquivos baixados",
-    "reparar Nexus reaplica permissoes do Excel",
-    "cadastro e controle cloud preservados"
-  ]
+    "Chat unico Nexus Pulse",
+    "Studio sem chats duplicados",
+    "Botao Painel Abas no MENU e no Studio",
+    "Painel profissional NEXUS_PAINEL com botoes para todas as abas",
+    "Criacao de painel pelo chat exige plano e confirmacao",
+    "Biblioteca ajustada para experiencia Pulse unica"
+  ],
+  "update_manifest": {
+    "schema": 1,
+    "version": "5.8.7",
+    "channel": "stable",
+    "title": "NEXUS Safe Core Update",
+    "summary": "Atualiza somente o core do NEXUS e preserva planilhas, dados, memoria, backups, logs e customizacoes do usuario.",
+    "safe_update_policy": {
+      "touches_user_sheets": false,
+      "touches_imported_vba": false,
+      "updates_only_core_nexus": true,
+      "update_paths": [
+        "core",
+        "vba",
+        "biblioteca_editavel",
+        "config/supabase_cloud.json",
+        "config/requirements.txt",
+        "config/nexus_version.json",
+        "config/update_manifest.json",
+        "INICIAR.BAT",
+        "instalar.bat",
+        "MAPA_DO_PROJETO.md"
+      ],
+      "preserve_paths": [
+        "config/nexus_ultra_config.json",
+        "config/postgres_local.json",
+        "config/update_config.json",
+        "dados",
+        "logs",
+        "planilhas",
+        "backups",
+        "dist",
+        "updates"
+      ]
+    },
+    "migration_contract": [
+      "Nao apagar abas criadas/importadas pelo usuario.",
+      "Nao sobrescrever modulos, classes ou UserForms importados pelo usuario.",
+      "Criar backup completo antes de aplicar update.",
+      "Atualizar apenas arquivos do runtime NEXUS listados em update_paths.",
+      "Registrar o manifesto aplicado em logs/update_manifest_last.json."
+    ],
+    "changes": [
+      "Chat unico Nexus Pulse",
+      "Studio sem chats duplicados",
+      "Botao Painel Abas no MENU e no Studio",
+      "Painel profissional NEXUS_PAINEL com botoes para todas as abas",
+      "Criacao de painel pelo chat exige plano e confirmacao",
+      "Biblioteca ajustada para experiencia Pulse unica"
+    ],
+    "versao": "5.8.7",
+    "updated_at": "2026-05-13T15:17:53"
+  }
 }

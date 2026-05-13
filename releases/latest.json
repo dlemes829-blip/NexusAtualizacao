@@ -1,19 +1,14 @@
 {
-  "versao": "5.8.9",
+  "versao": "5.9.0",
   "canal": "stable",
-  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.8.9/Sistema_Nexus_v5_8_9_UPDATE.zip",
-  "sha256": "A21F5E52122B62E9D8430A1FB63776601956A4AFBCD85CAB56A1C5FD5D406B88",
+  "url_zip": "https://github.com/dlemes829-blip/NexusAtualizacao/releases/download/v5.9.0/Sistema_Nexus_v5_9_0_UPDATE.zip",
+  "sha256": "556C61A3B6E74C285789FDB39E8EB2E7317FCD0DFA993218CCBC908DE17848CB",
   "notas": [
-    "NEXUS Web Local sem Node.js",
-    "Botao Web no MENU",
-    "Botao Web da Aba no Studio",
-    "Gera HTML premium local com busca ordenacao cards e CSV",
-    "Abre automaticamente no navegador",
-    "Chat pede confirmacao antes de criar versao web"
+    "Hotfix login/cadastro separado, limite de 2 acessos por cliente, bloqueio cloud revalidado no chat/Studio e migracao de update com reabertura blindada"
   ],
   "update_manifest": {
     "schema": 1,
-    "version": "5.8.9",
+    "version": "5.9.0",
     "channel": "stable",
     "title": "NEXUS Safe Core Update",
     "summary": "Atualiza somente o core do NEXUS e preserva planilhas, dados, memoria, backups, logs e customizacoes do usuario.",
@@ -53,14 +48,9 @@
       "Registrar o manifesto aplicado em logs/update_manifest_last.json."
     ],
     "changes": [
-      "NEXUS Web Local sem Node.js",
-      "Botao Web no MENU",
-      "Botao Web da Aba no Studio",
-      "Gera HTML premium local com busca ordenacao cards e CSV",
-      "Abre automaticamente no navegador",
-      "Chat pede confirmacao antes de criar versao web"
+      "Hotfix login/cadastro separado, limite de 2 acessos por cliente, bloqueio cloud revalidado no chat/Studio e migracao de update com reabertura blindada"
     ],
-    "versao": "5.8.9",
-    "updated_at": "2026-05-13T15:46:03"
+    "versao": "5.9.0",
+    "updated_at": "2026-05-13T16:12:34"
   }
 }
